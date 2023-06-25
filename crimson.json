@@ -1,0 +1,64 @@
+{
+  "name": "crimsonred",
+  "version": "2.0.1",
+  "description": "A red Dark Theme, Comfy for the eyes~ | Based on Cosmicka.",
+  "authors": [
+    {
+      "name": "Lyntxrya#7769",
+      "id": "183251375193456641"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#B0100B"],
+    "HEADER_SECONDARY": ["#FF3131"],
+    "TEXT_NORMAL": ["#FF3131"],
+    "TEXT_MUTED": ["#B0100B"],
+    "INTERACTIVE_NORMAL": ["#FF444E"],
+    "INTERACTIVE_HOVER": ["#82191C"],
+    "INTERACTIVE_ACTIVE": ["#DE7178"],
+    "INTERACTIVE_MUTED": ["#FF4C00"],
+    "BACKGROUND_PRIMARY": ["#280205"],
+    "BACKGROUND_SECONDARY": ["#210203"],
+    "BACKGROUND_SECONDARY_ALT": ["#280205"],
+    "BACKGROUND_TERTIARY": ["#280205"],
+    "BACKGROUND_ACCENT": ["#2E0A0D"], 
+    "BACKGROUND_FLOATING": ["#280205"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#280205"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#280205"],
+    "BACKGROUND_NESTED_FLOATING": ["#280205"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#1C0B0D"],
+    "BACKGROUND_MODIFIER_HOVER": ["#1C0B0D"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#5C262B"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#290715"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#521B21"],
+    "SCROLLBAR_THIN_THUMB": ["transparent"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["transparent"],
+    "SCROLLBAR_AUTO_TRACK": ["transparent"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#6B001A"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER":["#FF5D6B"]
+
+  },
+  "rawColors": {
+    "PRIMARY_500": "#8c42fc", 
+    "PRIMARY_100": "#FF3131",
+    "PRIMARY_200": "#FF3131",
+    "PRIMARY_300": "#6052ff",
+    "PRIMARY_360": "#8563ff",
+    "PRIMARY_400": "#6052ff", 
+    "PRIMARY_600": "#280205", 
+    "PRIMARY_630": "#12111b",
+    "PRIMARY_660": "#280205",
+    "PRIMARY_700": "#080128",
+    "PRIMARY_800": "#280205",
+    "BRAND_260": "#7d52ff",
+    "BRAND_360": "#529ceb",
+    "BRAND_400": "#5908C5",
+    "BRAND_500": "#5908C5",
+    "BRAND_560": "#FF3131",
+    "BRAND_600": "#5908C5",
+    "BRAND_630": "#5908C5"
+  },
+  "spec": 2
+}  
