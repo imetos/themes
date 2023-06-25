@@ -1,6 +1,6 @@
 {
     "name": "sunset",
-    "description": "gradient",
+    "description": "url img",
     "authors": [
         {
             "name": "METOS",
@@ -14,7 +14,7 @@
               "INTERACTIVE_NORMAL" :["#8c5006"],
               "INTERACTIVE_HOVER" : ["#8c5006"],
               "INTERACTIVE_ACTIVE" : ["#0073ff"],
-              "BACKGROUND_SECONDARY": ["#371F13"],
+              "BACKGROUND_SECONDARY": ["https://media.discordapp.net/attachments/1089788093009240104/1122629241708757012/Screenshot_20230625_234650.jpg"],
               "BACKGROUND_TERTIARY" :["#1C1038"],
               "BACKGROUND_SECONDARY_ALT" : ["#2d0269"],
               "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
