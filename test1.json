@@ -14,5 +14,9 @@
               "INTERACTIVE_ACTIVE" : ["#0073ff"],
               "TEXT_LINK" : ["#0073ff"]
          }            
-   
+     "background": {
+        "blur": 0.1,
+        "url": "https://media.discordapp.net/attachments/865608064429326357/1122511206259900416/02c526b0660b15ad3ae0119fe4042692.jpg",
+        "alpha": 0.5
+    },
 }
