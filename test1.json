@@ -1,0 +1,18 @@
+{
+    "name": "SUNM",
+    "description": "TOSUND",
+    "authors": [
+        {
+            "name": "METOS",
+            "id": "778695192684920842"
+        }
+    ],
+    "semanticColors" : {
+              "HEADER_PRIMARY" : ["#8c5006"],
+              "HEADER_SECONDARY" : ["#8c5006"],
+              "TEXT_MUTED" :["#8c5006" ],
+              "INTERACTIVE_ACTIVE" : ["#0073ff"],
+              "TEXT_LINK" : ["#0073ff"]
+         },             
+   
+}
