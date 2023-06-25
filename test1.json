@@ -17,7 +17,7 @@
               "BACKGROUND_SECONDARY": ["#371F13"],
               "BACKGROUND_TERTIARY" :["#1C1038"],
               "BACKGROUND_SECONDARY_ALT" : ["#2d0269"],
-              "BACKGROUND_MOBILE_PRIMARY": ["#1C1038", "#371F13"],
+              "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
               "TEXT_LINK" : ["#0073ff"]
          }           
    
