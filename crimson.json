@@ -1,17 +1,16 @@
 {
-  "name": "crimsonred",
-  "version": "2.0.1",
-  "description": "A red Dark Theme, Comfy for the eyes~ | Based on Cosmicka.",
+  "name": "KingCrimson",
+  "version": "1.0",
+  "description": "A Simple dark theme made to fix Crisom theme bug",
   "authors": [
     {
-      "name": "Lyntxrya#7769",
-      "id": "183251375193456641"
+      "name": "imetos",
+      "id": "778695192684920842"
     }
   ],
   "semanticColors": {
     "HEADER_PRIMARY": ["#B0100B"],
     "HEADER_SECONDARY": ["#FF3131"],
-    "TEXT_NORMAL": ["#FF3131"],
     "TEXT_MUTED": ["#B0100B"],
     "INTERACTIVE_NORMAL": ["#FF444E"],
     "INTERACTIVE_HOVER": ["#82191C"],
@@ -41,24 +40,19 @@
 
   },
   "rawColors": {
-    "PRIMARY_500": "#8c42fc", 
+    "PRIMARY_500": "#FC4242", 
     "PRIMARY_100": "#FF3131",
     "PRIMARY_200": "#FF3131",
-    "PRIMARY_300": "#6052ff",
-    "PRIMARY_360": "#8563ff",
-    "PRIMARY_400": "#6052ff", 
+    "PRIMARY_300": "#FF5151",
+    "PRIMARY_400": "#FF5151", 
     "PRIMARY_600": "#280205", 
-    "PRIMARY_630": "#12111b",
     "PRIMARY_660": "#280205",
-    "PRIMARY_700": "#080128",
     "PRIMARY_800": "#280205",
-    "BRAND_260": "#7d52ff",
-    "BRAND_360": "#529ceb",
-    "BRAND_400": "#5908C5",
-    "BRAND_500": "#5908C5",
+    "BRAND_400": "#C50714",
+    "BRAND_500": "#C50714",
     "BRAND_560": "#FF3131",
-    "BRAND_600": "#5908C5",
-    "BRAND_630": "#5908C5"
+    "BRAND_600": "#C50714",
+    "BRAND_630": "#C50714"
   },
   "spec": 2
 }  
