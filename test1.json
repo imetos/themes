@@ -14,12 +14,16 @@
               "INTERACTIVE_NORMAL" :["#8c5006"],
               "INTERACTIVE_HOVER" : ["#8c5006"],
               "INTERACTIVE_ACTIVE" : ["#0073ff"],
-              "BACKGROUND_SECONDARY": ["https://media.discordapp.net/attachments/1089788093009240104/1122629241708757012/Screenshot_20230625_234650.jpg"],
+              "BACKGROUND_SECONDARY": ["#2d0269"],
               "BACKGROUND_TERTIARY" :["#1C1038"],
               "BACKGROUND_SECONDARY_ALT" : ["#2d0269"],
               "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
               "BACKGROUND_MOBILE_SECONDARY": ["#00000000"],
               "TEXT_LINK" : ["#0073ff"]
          }           
-   
+   "background": {
+        "blur": 0.1,
+        "url": "https://media.discordapp.net/attachments/865608064429326357/1122511206259900416/02c526b0660b15ad3ae0119fe4042692.jpg",
+        "alpha": 0.5
+    },
 }
