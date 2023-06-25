@@ -1,6 +1,6 @@
 {
-    "name": "SUNM",
-    "description": "TOSUND",
+    "name": "sunset",
+    "description": "fix",
     "authors": [
         {
             "name": "METOS",
@@ -11,10 +11,10 @@
               "HEADER_PRIMARY" : ["#8c5006"],
               "HEADER_SECONDARY" : ["#8c5006"],
               "TEXT_MUTED" :["#8c5006" ],
-              "INTERACTIVE_NORMAL" :["#0479d9"],
+              "INTERACTIVE_NORMAL" :["#8c5006"],
               "INTERACTIVE_HOVER" : ["#8c5006"],
               "INTERACTIVE_ACTIVE" : ["#0073ff"],
-              "BACKGROUND_SECONDARY" :["#2d0269"],
+              "BACKGROUND_SECONDARY" :["#371F13"],
               "BACKGROUND_SECONDARY_ALT" : ["#2d0269"],
               "TEXT_LINK" : ["#0073ff"]
          }           
