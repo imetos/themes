@@ -1,6 +1,6 @@
 {
     "name": "sunset",
-    "description": "fix",
+    "description": "gradient",
     "authors": [
         {
             "name": "METOS",
@@ -14,7 +14,7 @@
               "INTERACTIVE_NORMAL" :["#8c5006"],
               "INTERACTIVE_HOVER" : ["#8c5006"],
               "INTERACTIVE_ACTIVE" : ["#0073ff"],
-              "BACKGROUND_SECONDARY": ["#371F13", "#543D32"],
+              "BACKGROUND_SECONDARY": ["#371F13","#543D32"],
               "BACKGROUND_TERTIARY" :["#1C1038"],
               "BACKGROUND_SECONDARY_ALT" : ["#2d0269"],
               "TEXT_LINK" : ["#0073ff"]
