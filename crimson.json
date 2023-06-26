@@ -10,7 +10,7 @@
   ],
   "semanticColors": {
     "HEADER_PRIMARY": ["#B0100B"],
-    "HEADER_SECONDARY": ["#FF3131"],
+    "HEADER_SECONDARY": ["#240201"],
     "TEXT_MUTED": ["#B0100B"],
     "INTERACTIVE_NORMAL": ["#FF444E"],
     "INTERACTIVE_HOVER": ["#82191C"],
@@ -36,7 +36,8 @@
     "SCROLLBAR_AUTO_THUMB": ["transparent"],
     "SCROLLBAR_AUTO_TRACK": ["transparent"],
     "CHANNELTEXTAREA_BACKGROUND": ["#6B001A"],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER":["#FF5D6B"]
+    "TEXT_DANGER" : ["FE4300"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER":["#FE4300"]
 
   },
   "rawColors": {
@@ -48,11 +49,14 @@
     "PRIMARY_600": "#280205", 
     "PRIMARY_660": "#280205",
     "PRIMARY_800": "#280205",
+    "BRAND_360" : "FE4300",
     "BRAND_400": "#C50714",
-    "BRAND_500": "#C50714",
     "BRAND_560": "#FF3131",
     "BRAND_600": "#C50714",
-    "BRAND_630": "#C50714"
+    "BRAND_630": "#C50714",
+    "WHITE_500" : "FE4300",
+    "GREEN_360": "FE4300",
+    "YELLOW_300" : "FE4300"
   },
   "spec": 2
 }  
